@@ -28,10 +28,11 @@
     			 <muleVersion>3.8.6</muleVersion>
     			 <username>nnbaccount</username>
    			 	 <password>NnBaCc0unt1!</password>
-   			 	  <applicationName>JenkinsTest</applicationName>
+   			 	  <applicationName>jenkins</applicationName>
    			 	 <redeploy>true</redeploy>
   			 	 <environment>Sandbox</environment>
   			 	 <businessGroup>EDF</businessGroup>
+  			 	 <target>cloudhub</target>
         		 <workerType>MICRO</workerType>
         	 	 <workers>1</workers>
   			  </configuration>
