@@ -26,8 +26,6 @@
    			  <deploymentType>cloudhub</deploymentType>
     		  <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
     			 <muleVersion>3.8.6</muleVersion>
-    			 <username>nnbaccount</username>
-   			 	 <password>NnBaCc0unt1!</password>
    			 	  <applicationName>jenkins</applicationName>
    			 	 <redeploy>true</redeploy>
   			 	 <environment>Sandbox</environment>
